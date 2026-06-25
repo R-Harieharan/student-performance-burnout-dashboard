@@ -50,7 +50,7 @@ This project addresses that challenge by combining machine learning, explainable
 
 ![Correlation Analysis](screenshots/correlation_based_analysis.png)
 
-*Global explainability dashboard powered by SHAP, highlighting the most influential features driving model predictions.*
+*Correlation-based feature analysis showing the relationship between academic and behavioral indicators and burnout outcomes.*
 
 ---
 
