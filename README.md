@@ -48,7 +48,7 @@ This project addresses that challenge by combining machine learning, explainable
 
 ## Correlation-Based Feature Analysis
 
-![SHAP Analysis](screenshots/scorrelation_based_analysis.png)
+![Correlation Analysis](screenshots/correlation_based_analysis.png)
 
 *Global explainability dashboard powered by SHAP, highlighting the most influential features driving model predictions.*
 
