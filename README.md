@@ -42,13 +42,13 @@ This project addresses that challenge by combining machine learning, explainable
 
 ![Overview Dashboard](screenshots/dashboard_overview.png)
 
-*Central analytics dashboard displaying burnout distribution, cohort statistics, and operational KPIs.*
+*Correlation-based feature analysis showing the relationship between academic and behavioral indicators and burnout outcomes.*
 
 ---
 
-## Explainable AI Analysis
+## Correlation-Based Feature Analysis
 
-![SHAP Analysis](screenshots/shap_analysis.png)
+![SHAP Analysis](screenshots/scorrelation_based_analysis.png)
 
 *Global explainability dashboard powered by SHAP, highlighting the most influential features driving model predictions.*
 
