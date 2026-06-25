@@ -42,7 +42,7 @@ This project addresses that challenge by combining machine learning, explainable
 
 ![Overview Dashboard](screenshots/dashboard_overview.png)
 
-*Correlation-based feature analysis showing the relationship between academic and behavioral indicators and burnout outcomes.*
+*Main operational dashboard displaying cohort statistics, burnout risk distribution, and student analytics.*
 
 ---
 
